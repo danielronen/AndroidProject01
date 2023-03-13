@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DanielApp</string>
+    <string name="login">Login</string>
+    <string name="Password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="email">Email</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="phone">Phone</string>
+    <string name="last_name">Last Name</string>
+    <string name="name">Name</string>
+    <string name="username">User Name</string>
+    <string name="conform_password">Confirm Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="SignUpNow">SignUp Now</string>
+    <string name="back">Back to login</string>
+    <string name="register_button">Don\'t have an account? <b>Register Here</b> </string>
+    <string name="search">Search</string>
+    <string name="flag_image">flag image</string>
+</resources>
